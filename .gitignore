@@ -1,0 +1,14 @@
+# Build & Distribution
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS
+Thumbs.db
+Desktop.ini
